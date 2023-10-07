@@ -191,7 +191,9 @@ margin: 8pc 55pc;
 .whatsapp {
     margin: 8pc 88pc;
 }
-
+ a {
+    text-decoration: none;
+ }
 
 
 
